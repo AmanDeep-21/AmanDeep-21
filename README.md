@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi folks 👋
 
-<!--
-**AmanDeep-21/AmanDeep-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Aman Deep.
+- 🔭 Currently working as a Software Developer in Amazon
+- 🌱 I’m currently learning android, flutter and selenium
+- 👯 I’m looking to collaborate on MERN stack and Android app projects
+- 🤔 I’m looking for help with ML and blockchain
+- 💬 Ask me about ReactJS, NodeJS, MySQL, MongoDB, Java, Spring and AWS
+- 😄 Pronouns: He/Him
+- ❤️ Loves to do competitive programming. If interested, we can discuss on some tricky problems as well.
+- 📫 How to reach me: <br> <br> [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@aman-deep&color=bfefff&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/amandeep21/) 
+[![email](https://img.shields.io/static/v1.svg?label=Email&message=@amanofficial1999@gmail.com&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](mailto:amanofficial1999@gmail.com) 
