@@ -1,7 +1,7 @@
 ### Hi folks 👋
 
 I'm Aman Deep.
-- 🔭 Currently working as a Software Developer in Amazon
+- 🔭 Currently working as a Software Developer
 - 🌱 I’m currently learning android, flutter and selenium
 - 👯 I’m looking to collaborate on MERN stack and Android app projects
 - 🤔 I’m looking for help with ML and blockchain
